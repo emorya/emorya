@@ -28,4 +28,6 @@ My academic and research experience includes:
 
 [CRISPR Automation](https://github.com/emorya/CRISPR-Automation)
 
+**DNA Origami Automation:** A repository for this project exists. Code may be shared following approval from the principal investigator; much of the project data cannot be made public at this time.
+
 I'm interested in applying my scientific and analytical background to meaningful work in healthcare, biotechnology, and data analysis.
