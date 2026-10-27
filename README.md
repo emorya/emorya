@@ -14,7 +14,9 @@ My research has included automated DNA origami workflows, genomic alignment and 
 
 ## Projects and Research
 
-My public repositories cover computational biology, machine learning, data analysis, and CRISPR-related coursework and projects. Browse the [repositories on my profile](https://github.com/emorya?tab=repositories).
+- [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-)
+- [CRISPR Automation](https://github.com/emorya/CRISPR-Automation)
+- **Single-cell RNA-seq: Pancreas and Thymus** — analysis of Tabula Muris data, including quality control, PCA, UMAP, clustering, and gene-expression comparisons. Dedicated repository forthcoming.
 
 My DNA origami automation research remains private pending publication and principal investigator approval.
 
