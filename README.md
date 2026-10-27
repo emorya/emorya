@@ -1,33 +1,23 @@
-# Hi, I'm Emory!
+# Emory Adelman
 
-I'm a bioengineer with a background in computational biology, biological data analysis, and cell and molecular biology.
+Bioengineer with a background in computational biology, molecular biology, and laboratory automation. I earned an MEng in Bioengineering from UC Berkeley and a BS in Cell and Molecular Biology from San Francisco State University.
 
-I earned my Master of Engineering in Bioengineering from UC Berkeley and my Bachelor's in Cell & Molecular Biology from San Francisco State University.
+My research has included automated DNA origami workflows, genomic alignment and variant analysis, machine learning, and biological imaging.
 
-My academic and research experience includes:
+## Technical Skills
 
-- Machine learning and data analysis using Python and PyTorch
-- Biological sequence analysis and genome variant calling
-- Automated laboratory workflows using the Opentrons OT-2 robot
-- Medical imaging and deep learning
-- CRISPR guide RNA design and computational biology
+**Programming and analysis:** Python, R, Bash, PyTorch, Pandas, NumPy, scikit-learn
 
-### Technical Skills
+**Bioinformatics:** Bowtie2, SAMtools, BCFtools, BLAST, SLURM
 
-**Languages:** Python, R, Bash
+**Laboratory methods and automation:** Opentrons OT-2 Python API, PCR, gel electrophoresis, thermocycling, microscopy
 
-**Data Science & ML:** PyTorch, Pandas, NumPy, Scikit-learn
+## Projects and Research
 
-**Bioinformatics:** Bowtie2, Samtools, BCFtools, BLAST, SLURM
+My public repositories cover computational biology, machine learning, data analysis, and CRISPR-related coursework and projects. Browse the [repositories on my profile](https://github.com/emorya?tab=repositories).
 
-**Laboratory Automation:** Opentrons OT-2 API, Python, JSON
+My DNA origami automation research remains private pending publication and principal investigator approval.
 
-### Explore My Work
+## Interests
 
-[Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-)
-
-[CRISPR Automation](https://github.com/emorya/CRISPR-Automation)
-
-**DNA Origami Automation:** A repository for this project exists. Code may be shared following approval from the principal investigator; much of the project data cannot be made public at this time.
-
-I'm interested in applying my scientific and analytical background to meaningful work in healthcare, biotechnology, and data analysis.
+I am interested in applying computational and experimental biology to research in biotechnology and healthcare.
