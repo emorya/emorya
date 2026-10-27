@@ -16,7 +16,7 @@ My research has included automated DNA origami workflows, genomic alignment and 
 
 - [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-)
 - [CRISPR Automation](https://github.com/emorya/CRISPR-Automation)
-- **Single-cell RNA-seq: Pancreas and Thymus** — analysis of Tabula Muris data, including quality control, PCA, UMAP, clustering, and gene-expression comparisons. Dedicated repository forthcoming.
+- [Single-cell RNA-seq: Pancreas and Thymus](https://github.com/emorya/RNASeq) — Tabula Muris analysis, quality control, PCA, UMAP, clustering, and gene-expression comparisons.
 
 My DNA origami automation research remains private pending publication and principal investigator approval.
 
