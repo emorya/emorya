@@ -14,7 +14,9 @@ My research has included automated DNA origami workflows, genomic alignment and 
 
 ## SFSU Projects
 
-- [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-) — Machine learning, medical imaging, and data science projects.
+- [BraTS Brain Tumor Segmentation](https://github.com/emorya/PINC-projects-/blob/main/brats_tumor_segmentation_version_02.ipynb) — Deep learning coursework on MRI processing and whole-tumor segmentation.
+- **White Blood Cell (WBC) Models** — Image-based machine learning models exploring white blood cell classification. Project files/link to be added once identified.
+- [Additional Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-) — Medical image classification, predictive modeling, and computational biology coursework.
 
 ## Berkeley Projects
 
@@ -22,7 +24,11 @@ My research has included automated DNA origami workflows, genomic alignment and 
 - [CRISPR Automation](https://github.com/emorya/CRISPR-Automation) — Educational CRISPR design workflow and documented team contributions.
 - [Erwinia Genome Assembly & Comparative Genomics](Berkeley-Coursework/Erwinia-Genome-Analysis/README.md) — Illumina/Nanopore read QC, assembly comparisons (Flye, SPAdes, Unicycler), and exploratory phylogenetic analysis.
 
-My DNA origami automation research remains private pending publication and principal investigator approval.
+## MEng Capstone — DNA Origami Laboratory Automation
+
+Developed Python-based workflows for DNA origami preparation and gel electrophoresis using the Opentrons OT-2, including experimental troubleshooting and comparison of manual and automated procedures.
+
+**Repository status:** My DNA origami automation research remains private pending publication and principal investigator approval.
 
 ## Interests
 
