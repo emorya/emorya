@@ -15,8 +15,12 @@ My research has included automated DNA origami workflows, genomic alignment and 
 ## Projects and Research
 
 - [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-)
-- [CRISPR Automation](https://github.com/emorya/CRISPR-Automation)
 - [Single-cell RNA-seq: Pancreas and Thymus](https://github.com/emorya/RNASeq) — Tabula Muris analysis, quality control, PCA, UMAP, clustering, and gene-expression comparisons.
+
+### Berkeley Coursework
+
+- [CRISPR Automation](https://github.com/emorya/CRISPR-Automation) — Educational CRISPR design workflow and documented team contributions.
+- [Erwinia Genome Assembly & Comparative Genomics](Berkeley-Coursework/Erwinia-Genome-Analysis/README.md) — Illumina/Nanopore read QC, assembly comparisons (Flye, SPAdes, Unicycler), and exploratory phylogenetic analysis.
 
 My DNA origami automation research remains private pending publication and principal investigator approval.
 
