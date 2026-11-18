@@ -12,13 +12,13 @@ My research has included automated DNA origami workflows, genomic alignment and 
 
 **Laboratory methods and automation:** Opentrons OT-2 Python API, PCR, gel electrophoresis, thermocycling, microscopy
 
-## Projects and Research
+## SFSU Projects
 
-- [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-)
+- [Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-) — Machine learning, medical imaging, and data science projects.
+
+## Berkeley Projects
+
 - [Single-cell RNA-seq: Pancreas and Thymus](https://github.com/emorya/RNASeq) — Tabula Muris analysis, quality control, PCA, UMAP, clustering, and gene-expression comparisons.
-
-### Berkeley Coursework
-
 - [CRISPR Automation](https://github.com/emorya/CRISPR-Automation) — Educational CRISPR design workflow and documented team contributions.
 - [Erwinia Genome Assembly & Comparative Genomics](Berkeley-Coursework/Erwinia-Genome-Analysis/README.md) — Illumina/Nanopore read QC, assembly comparisons (Flye, SPAdes, Unicycler), and exploratory phylogenetic analysis.
 
