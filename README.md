@@ -15,7 +15,7 @@ My research has included automated DNA origami workflows, genomic alignment and 
 ## SFSU Projects
 
 - [BraTS Brain Tumor Segmentation](https://github.com/emorya/PINC-projects-/blob/main/brats_tumor_segmentation_version_02.ipynb) — Deep learning coursework on MRI processing and whole-tumor segmentation.
-- **White Blood Cell (WBC) Models** — Image-based machine learning models exploring white blood cell classification. Project files/link to be added once identified.
+- [White Blood Cell (WBC) Classification Models](https://github.com/emorya/PINC-projects-/blob/main/hiring/team_white_blood_cell_classification.ipynb) — TensorFlow/Keras image classification using convolutional neural networks and transfer learning.
 - [Additional Machine Learning & Data Science Projects](https://github.com/emorya/PINC-projects-) — Medical image classification, predictive modeling, and computational biology coursework.
 
 ## Berkeley Projects
